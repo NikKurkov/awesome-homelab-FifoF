@@ -60,3 +60,7 @@
 
 - name: highlight.io
   url: https://github.com/highlight/highlight
+
+- name: SiteWatcher
+  url: https://github.com/NikKurkov/sitewatcher
+  description: Self-hosted website uptime and response-time monitoring with TLS and domain expiry checks and public status pages.
